@@ -1,0 +1,13 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
+python-multipart==0.0.6
+pandas==2.1.4
+openpyxl==3.1.2
+aiofiles==23.2.1
+asyncio==3.4.3
+regex==2023.10.3
+dnspython==2.4.2
+email-validator==2.1.0
+tqdm==4.66.1
+numpy==1.25.2
