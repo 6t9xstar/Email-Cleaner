@@ -1,5 +1,7 @@
 # Email-Cleaner Pro
 
+![GitHub stars](https://img.shields.io/github/stars/6t9xstar/Email-Cleaner?style=social)
+
 **Email-Cleaner Pro** is a lightweight desktop tool designed to clean and validate email lists quickly and efficiently. It helps remove invalid, fake, duplicate, and unwanted email addresses so you can work with a clean and reliable dataset.
 
 ---
